@@ -10,7 +10,7 @@ Um projeto de teste com um arquivo README 🚀
 
 ## Como utilizar
 
-1 - Clone pro o projeto
+1 - Clone pro o projeto 2
 ```
 git clone <url>
 ```
